@@ -1,0 +1,12 @@
+ba = ab
+ca = ac
+cb = bc
+ab = B
+aB = (return)false
+Bc = (return)false
+bc = .
+b.c = . 
+B.c = .
+.. = .
+.c = (return)true
+ = (return)false
