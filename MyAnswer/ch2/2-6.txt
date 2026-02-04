@@ -1,0 +1,25 @@
+aa = A
+bb = B
+cc = C
+Aa = A
+aA = A
+Bb = B
+bB = B
+Cc = C
+cC = C 
+
+a = !
+b = !
+c = !
+
+!C = !
+!B = !
+!A = !
+A! = !
+B! = !
+C! = !
+
+!!! = !!
+!! = (return)false
+! = (return)true
+ = (return)false

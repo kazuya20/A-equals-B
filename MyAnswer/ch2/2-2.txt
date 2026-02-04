@@ -1,0 +1,6 @@
+b = 
+c = 
+aaa = (return)true
+ = (return)false
+aa = (return)false
+a = (return)false 

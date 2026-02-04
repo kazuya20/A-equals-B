@@ -1,0 +1,6 @@
+aaa = aa
+aa =
+aab = b
+baa = b
+aac = c
+caa = c

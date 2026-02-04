@@ -1,0 +1,8 @@
+a = !
+b = !
+c = !
+
+!!!!! = !!!!
+!!!! = (return)false
+!!! = (return)true
+ = (return)false
